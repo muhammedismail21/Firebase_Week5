@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "263873300928",
+    "firebase_url": "https://dungeonsproject-14c27.firebaseio.com",
+    "project_id": "dungeonsproject-14c27",
+    "storage_bucket": "dungeonsproject-14c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263873300928:android:ac0e8e41c6ddcfae",
+        "android_client_info": {
+          "package_name": "com.example.ismail.week6_dungeons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263873300928-j96qn3fmgslkf2un2tvsq1bistspvlnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ismail.week6_dungeons",
+            "certificate_hash": "C7C4AFE3AFB38A97B35AECE38FCB6735ED6BA16E"
+          }
+        },
+        {
+          "client_id": "263873300928-j53och0qo6qr8uc1edtli02kts889tlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3ymlRg_840B5BFwVgR_xHZhQ2RG4sjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263873300928-j53och0qo6qr8uc1edtli02kts889tlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263873300928:android:ee90204a3b1915ea",
+        "android_client_info": {
+          "package_name": "com.example.ismail.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263873300928-gct66jo98j139hitqep7cdld64banpjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ismail.myapplication",
+            "certificate_hash": "C7C4AFE3AFB38A97B35AECE38FCB6735ED6BA16E"
+          }
+        },
+        {
+          "client_id": "263873300928-j53och0qo6qr8uc1edtli02kts889tlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3ymlRg_840B5BFwVgR_xHZhQ2RG4sjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263873300928-j53och0qo6qr8uc1edtli02kts889tlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
